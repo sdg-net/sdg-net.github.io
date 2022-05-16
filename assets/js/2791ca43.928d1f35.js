@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksdgnet=self.webpackChunksdgnet||[]).push([[1171],{3371:function(a){a.exports=JSON.parse('{"label":"jamstack","permalink":"/tags/jamstack","allTagsPath":"/tags","count":1}')}}]);
